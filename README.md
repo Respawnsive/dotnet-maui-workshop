@@ -1,3 +1,14 @@
+----------------------------------------------------------------------------------------------------------------------------------
+
+## !!! WARNING !!! (Do not merge this file in PR)
+### This repo is a fork from the original dotnet-presentation MAUI workshop repository (MonkeyFinder)
+https://github.com/dotnet-presentations/dotnet-maui-workshop
+
+### It's used by RESPAWNSIVE to create the Community Module "Apizr" workshop (based on MonkeyFinder)
+https://github.com/Respawnsive/Apizr
+
+----------------------------------------------------------------------------------------------------------------------------------
+
 # .NET MAUI - Workshop
 
 Today we will build a [.NET MAUI](https://docs.microsoft.com/dotnet/maui?WT.mc_id=friends-mauiworkshop-jamont) application that will display a list of Monkeys from around the world. We will start by building the business logic backend that pulls down json-encoded data from a RESTful endpoint. We will then leverage [.NET MAUI](https://docs.microsoft.com/xamarin/essentials/index?WT.mc_id=friends-mauiworkshop-jamont) to find the closest monkey to us and also show the monkey on a map. We will also see how to display data in many different ways and then finally fully theme the application.
