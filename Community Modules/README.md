@@ -4,7 +4,7 @@ Here you will find additional modules that build upon the completed workshop app
 
 ## Available Modules
 
-Coming soon!
+- [Apizr](/Apizr/Part%200%20-%20Overview/README.md) : A workshop to quickly understand the aim and the use of Apizr Library : a powerfull ApiClient, based on Refit, extended for advanced scenarios (resilience, cache, auth, etc.) with easy implementation and less boilerplate.
 
 ## Contributing Modules
 
